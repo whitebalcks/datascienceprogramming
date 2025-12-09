@@ -39,7 +39,11 @@ scipy           # Statistical analysis
 Installation
 bash
 pip install pandas numpy matplotlib seaborn scipy
+
+---
+
 ## 📁 File Structure
+
 project/
 │
 ├── cleaned_data.csv                    # Original cleaned data
@@ -63,7 +67,11 @@ Output:
 Cleaned CSV file
 Statistical analysis results
 Visualization plots
+
+---
+
 ## 📈 Key Features
+
 Data Processing
 Temperature unit conversion (Celsius to Kelvin)
 Missing value handling
@@ -73,17 +81,12 @@ Correlation analysis between NDVI and LST
 Temporal trend analysis (2015-2025)
 Spatial pattern visualization
 Statistical significance testing
-## 👥 Team Members
-Member A: Data collection and preprocessing
-Member B: Statistical analysis
-Member C: Visualization and reporting
-Your Name: Data cleaning and feature engineering
-## 📚 References
-Satellite data source: [Add your data source]
-NDVI calculation method: [Add reference]
-LST retrieval algorithm: [Add reference]
+
+---
+
 ## 📧 Contact
-For questions, please contact: [your email]
+
+For questions, please contact: mc55498@um.edu.mo
 
 ## 📅 Last Updated
 December 9, 2025
